@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu and Context Menu</string>
+    <array name="list_names">
+        <item>Rahul</item>
+        <item>Priyal</item>
+        <item>Yash</item>
+        <item>Raj</item>
+    </array>
+    </resources>
